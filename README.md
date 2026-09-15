@@ -2,7 +2,7 @@
 
 Shooter Pi is an immersive "Shoot 'em up" space arcade game controlled entirely by physical tilt movements, combining the processing power of the Raspberry Pi Pico with the precision of the MPU-6050 accelerometer. Build your own portable handheld gaming console using just a display, a few buttons, and a microcontroller!
 
-📺 Watch the Full Project Video on YouTube: https://youtu.be/xxxxidxxxxxx
+📺 Watch the Full Project Video on YouTube: https://youtu.be/sREG-6Z4qks
 
 ## About the Project
 
